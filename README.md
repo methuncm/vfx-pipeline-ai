@@ -1,5 +1,3 @@
-# vfx-pipeline-ai
-Open-source AI-assisted Python automation and debugging toolkit for VFX compositing (Foundry Nuke) and 3D animation pipelines (Maya/Blender).
 # 🎬 VFX Pipeline AI (`vfx-pipeline-ai`)
 
 An open-source, AI-powered Python toolkit designed to assist 3D Animators, VFX Compositors, and Technical Directors in automating workflows across **Foundry Nuke**, **Autodesk Maya**, and **Blender**.
